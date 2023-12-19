@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134506293160",
+    "project_id": "movilesiei171-5af36",
+    "storage_bucket": "movilesiei171-5af36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134506293160:android:a55272e33fec4f39471f9d",
+        "android_client_info": {
+          "package_name": "cl.inacap.firebase171"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9NCNzBzuWsbif4mymW1uxt1J5E52O7WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

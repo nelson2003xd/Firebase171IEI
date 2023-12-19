@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firebase171IEI</string>
+    <string-array name="spn_estado">
+        <item>sin observaciones</item>
+        <item>con observaciones</item>
+
+    </string-array>
+</resources>
